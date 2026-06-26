@@ -22,4 +22,4 @@ Pagina web dedicada a mi artista favorito, The Weeknd (Abel Tesfaye). Creada com
 Creado por **Cristian Trujillo** — fan de XO.
 
 ---
-*Proyecto con fines educativos — SENA ADSO 2026*
+*SENA - Análisis y desarrollo de software*
